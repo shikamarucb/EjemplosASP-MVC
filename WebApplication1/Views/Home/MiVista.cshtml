@@ -1,0 +1,30 @@
+﻿@model List<WebApplication1.Models.Persona>
+@{
+    ViewBag.Title = "MiVista";
+}
+
+<h2>MiVista</h2>
+
+<table class="table">
+    <tr>
+        <th>Cedula</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+    </tr>
+    @foreach (var gente in Model)
+    {
+        <tr>
+            <td>@gente.cedula</td>
+            <td>@gente.nombre</td>
+            @*No utilizar el Html.Raw porque puedeen inyectar codigo*@
+            <td>@Html.Raw(gente.apellido)</td>
+        </tr>
+    }
+
+</table>
+
+@*renderiza otra vista en la vista actual*@
+@{ Html.RenderAction("Contact");}
+
+
+
