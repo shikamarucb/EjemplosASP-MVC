@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rutas", "Rutas\Rutas.csproj", "{7779F142-C133-4775-8CDB-3D6D993B43BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentResultEj", "ContentResultEj\ContentResultEj.csproj", "{5FCD507B-D98F-4DC4-BF0B-1D58206BEA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7779F142-C133-4775-8CDB-3D6D993B43BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7779F142-C133-4775-8CDB-3D6D993B43BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7779F142-C133-4775-8CDB-3D6D993B43BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7779F142-C133-4775-8CDB-3D6D993B43BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCD507B-D98F-4DC4-BF0B-1D58206BEA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCD507B-D98F-4DC4-BF0B-1D58206BEA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCD507B-D98F-4DC4-BF0B-1D58206BEA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCD507B-D98F-4DC4-BF0B-1D58206BEA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE797E1C-18B5-4BFB-921F-4A2148331A74}
+	EndGlobalSection
+EndGlobal
