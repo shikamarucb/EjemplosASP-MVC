@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<br /><br />
+
+@*Se especifica el action pero no el controlador*@
+@Html.ActionLink("Nombre del link", "About", new { edad = 20 }, new { atributo = "valor" })<br /><br />
+
+@*Se puede especificar el controlador*@
+@*Para sobreescribir una palabra reservada del lenguaje se escribe "@" *@
+@*new {atributo="valor"} hace referencia a un objeto anonimo*@
+@Html.ActionLink("Nombre del link2", "About", "Home", new { edad = 20 }, new { @class = "btn btn-danger" })<br /><br />
+
+@Html.ActionLink("Nombre del link3", "About", null, new { atributo = "valor" })

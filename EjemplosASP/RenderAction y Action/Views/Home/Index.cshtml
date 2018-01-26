@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1 style="color:red">RenderAction</h1>
+@{
+    @*Mirar las sobrecargas del metodo*@
+Html.RenderAction("Contact");
+}
+
+<br /><br />
+
+<h1 style="color:red">Action</h1>
+@*Mirar las sobrecargas del metodo*@
+@*El metodo action retorna un tipo especial de string que puedo usar en otro lado,
+    si no necesito sino solo renderizar utilizar una vista utilizar RenderAction*@
+@{var cadenaHtml = Html.Action("Contact");}
+@cadenaHtml

@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewBagDataEj", "ViewBagDat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo Raw", "Metodo Raw\Metodo Raw.csproj", "{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionLinkEj", "ActionLinkEj\ActionLinkEj.csproj", "{AEDA1044-0710-4B2A-8AE1-B5EBDF3FEE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderAction y Action", "RenderAction y Action\RenderAction y Action.csproj", "{C09BA128-584B-41C7-8B50-9AF3ABDA3880}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDA1044-0710-4B2A-8AE1-B5EBDF3FEE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDA1044-0710-4B2A-8AE1-B5EBDF3FEE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDA1044-0710-4B2A-8AE1-B5EBDF3FEE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDA1044-0710-4B2A-8AE1-B5EBDF3FEE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09BA128-584B-41C7-8B50-9AF3ABDA3880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09BA128-584B-41C7-8B50-9AF3ABDA3880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09BA128-584B-41C7-8B50-9AF3ABDA3880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09BA128-584B-41C7-8B50-9AF3ABDA3880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
