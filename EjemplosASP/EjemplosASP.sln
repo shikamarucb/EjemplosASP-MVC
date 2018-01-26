@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpPostGetEj", "HttpPostGe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewBagDataEj", "ViewBagDataEj\ViewBagDataEj.csproj", "{F94442D0-71A6-441D-BEE0-2A28CA48244F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo Raw", "Metodo Raw\Metodo Raw.csproj", "{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F94442D0-71A6-441D-BEE0-2A28CA48244F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94442D0-71A6-441D-BEE0-2A28CA48244F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94442D0-71A6-441D-BEE0-2A28CA48244F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7A0138-66AD-4CAA-A8A3-2EC8D200FFA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

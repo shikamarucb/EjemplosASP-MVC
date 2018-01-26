@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EjemplosASP",
-    "\\EjemplosASP\\ContentResultEj",
-    "\\EjemplosASP\\ContentResultEj\\Controllers"
+    "\\EjemplosASP"
   ],
-  "SelectedNode": "\\EjemplosASP\\ContentResultEj\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\EjemplosASP\\EjemplosASP.sln",
   "PreviewInSolutionExplorer": false
 }

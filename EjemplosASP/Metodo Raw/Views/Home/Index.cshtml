@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>Con Html.Raw</h1>
+<h2>@Html.Raw(ViewBag.Data)</h2>
+<br /><br />
+<h1>Sin Html.Raw</h1>
+<h2>@ViewBag.Data</h2>
+
+</br></br>
+<h1>Es peligroso usar Html.Raw porque se puede inyectar codigo</h1>
