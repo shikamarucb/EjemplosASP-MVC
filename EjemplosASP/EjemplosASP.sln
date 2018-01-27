@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionLinkEj", "ActionLinkE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderAction y Action", "RenderAction y Action\RenderAction y Action.csproj", "{C09BA128-584B-41C7-8B50-9AF3ABDA3880}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display y DisplayTemplates", "Display y DisplayTemplates\Display y DisplayTemplates.csproj", "{69517EE4-2821-4DA1-9D7D-5AC3ED3B8EFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C09BA128-584B-41C7-8B50-9AF3ABDA3880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C09BA128-584B-41C7-8B50-9AF3ABDA3880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C09BA128-584B-41C7-8B50-9AF3ABDA3880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69517EE4-2821-4DA1-9D7D-5AC3ED3B8EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69517EE4-2821-4DA1-9D7D-5AC3ED3B8EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69517EE4-2821-4DA1-9D7D-5AC3ED3B8EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69517EE4-2821-4DA1-9D7D-5AC3ED3B8EFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

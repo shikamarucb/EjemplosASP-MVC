@@ -1,0 +1,42 @@
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\ApplicationInsights.config
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Display y DisplayTemplates.dll.config
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Display y DisplayTemplates.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Display y DisplayTemplates.pdb
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Antlr3.Runtime.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.Web.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Newtonsoft.Json.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Helpers.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Mvc.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Optimization.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Razor.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.WebPages.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\WebGrease.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Helpers.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Mvc.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Optimization.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.Razor.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.WebPages.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Antlr3.Runtime.pdb
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Newtonsoft.Json.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.Web.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.pdb
