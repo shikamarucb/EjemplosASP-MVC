@@ -1,0 +1,13 @@
+﻿<br />
+<br />
+<h2>Escoja una Opción</h2>
+
+@*DropDownList no es mas que un la estructura <select> de Html*@
+@*El primer parametro es el nombre que van a llevar los atributos "id" y "name"*@
+@*El segundo parametro es el listado, se castea ya que no se reconoce de que tipo es el Viewbag.lista*@
+@Html.DropDownList("listado",(List<SelectListItem>)ViewBag.lista)
+<br />
+
+<h1 style="color:red">DropDownList desde un enum</h1>
+<h2>Escoja una Opción</h2>
+@Html.DropDownList("miListado",(List<SelectListItem>)ViewBag.miListado)
