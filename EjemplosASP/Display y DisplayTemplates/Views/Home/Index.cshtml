@@ -1,11 +1,20 @@
-﻿@{
-    ViewBag.Title = "Home Page";
-}
-
-@*A Display se le pasa como parametro el nombre del ViewBag*@
+﻿@*A Display se le pasa como parametro el nombre del ViewBag*@
 <h1 style="color:red">Display con cadena de caracteres</h1>
 @Html.Display("cadena")
 
 @*A Display se le pasa como parametro el nombre del ViewBag*@
 <h1 style="color:red">Display con objeto persona</h1>
 @Html.Display("persona")
+
+@*A Editor se le pasa como parametro el nombre del ViewBag*@
+<h1 style="color:red">Editor con objeto persona</h1>
+@Html.Editor("persona")
+
+@*En la carpeta DisplayTemplates se crean las vistas para cada tipo de Datos u objetos(DateTime,
+    objetos, Int32, etc..)*@
+@*Tener en cuenta que no se puede con la clase STRING revisar el siguiente post:
+    https://stackoverflow.com/questions/11011444/asp-net-mvc-4-define-display-template-for-string-only*@
+
+@*En la carpeta EditorTemplates se crean las vistas para cada tipo de Datos u objetos(DateTime,
+    objetos, Int32, etc..) con el objetivo de crear campos de edicion para dichos tipos*@
+

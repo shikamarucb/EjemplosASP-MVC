@@ -11,13 +11,18 @@ namespace Display_y_DisplayTemplates.Controllers
         public ActionResult Index()
         {
             ViewBag.cadena = "Cadena de caracteres";
+
             char[] nombres = { 'A','n','d'};
-            ViewBag.persona = new Persona() {
+
+            Persona persona = new Persona() {
                 Nombre = new String(nombres),
                 Edad = 23,
                 Empleado = true,
                 Nacimiento = new DateTime(1994, 12, 15)
             };
+
+            ViewBag.persona = persona;
+
             return View();
         }
 

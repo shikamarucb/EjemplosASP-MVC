@@ -6,14 +6,15 @@
 </div>
 
 <div class="form-group">
+    @Html.LabelFor(Model => Model.Empleado):
+    @Html.DisplayFor(Model => Model.Empleado)
+</div>
+
+<div class="form-group">
     @Html.LabelFor(Model => Model.Edad):
     @Html.DisplayFor(Model => Model.Edad)
 </div>
 
-<div class="form-group">
-    @Html.LabelFor(Model => Model.Empleado):
-    @Html.DisplayFor(Model => Model.Empleado)
-</div>
 
 <div class="form-group">
     @Html.LabelFor(Model => Model.Nacimiento):
