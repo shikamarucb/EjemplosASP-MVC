@@ -1,0 +1,33 @@
+﻿@model BeginFormEj.Controllers.Persona
+
+<h2>@ViewBag.visajes</h2>
+
+<h1 style="color:red">Formulario sin Modelo</h1>
+
+@*inicio del formulario, (revisar las sobrecargar del metodo)*@
+@using (Html.BeginForm())
+{
+
+    <div>
+        @Html.LabelFor(Model => Model.Nombre)
+        @Html.EditorFor(Model => Model.Nombre)
+    </div>
+
+    <br />
+
+    <div>
+        @Html.LabelFor(Model => Model.Edad)
+        @Html.EditorFor(Model => Model.Edad)
+    </div>
+
+    <input type="submit" value="Enviar" />
+}
+
+<h1 style="color:red">Formulario con Modelo</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.EditorForModel()
+
+    <input type="submit" value="Enviar" />
+}
