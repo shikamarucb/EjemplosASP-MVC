@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropDownListEj", "DropDownL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginFormEj", "BeginFormEj\BeginFormEj.csproj", "{2A78AC2D-8F94-44BD-A591-A69715FAE4C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas Parciales", "Vistas Parciales\Vistas Parciales.csproj", "{04672528-0661-4C58-B7BC-09C6D6587A49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2A78AC2D-8F94-44BD-A591-A69715FAE4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A78AC2D-8F94-44BD-A591-A69715FAE4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A78AC2D-8F94-44BD-A591-A69715FAE4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04672528-0661-4C58-B7BC-09C6D6587A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04672528-0661-4C58-B7BC-09C6D6587A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04672528-0661-4C58-B7BC-09C6D6587A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04672528-0661-4C58-B7BC-09C6D6587A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

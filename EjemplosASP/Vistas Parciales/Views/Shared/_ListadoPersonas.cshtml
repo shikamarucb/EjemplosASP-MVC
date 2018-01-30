@@ -1,0 +1,8 @@
+﻿@model List<Vistas_Parciales.Controllers.Persona>
+
+@foreach (var lista in Model)
+{
+    <div>
+        <span>@lista.Name (@lista.Edad)</span>
+    </div>
+}
