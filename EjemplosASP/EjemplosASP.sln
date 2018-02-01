@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas Parciales", "Vistas 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción al Scaffolding", "Introducción al Scaffolding\Introducción al Scaffolding.csproj", "{7D07619A-38EE-4ABC-ACFF-2E5FBD0E4D16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion a Entity Framework", "Introduccion a Entity Framework\Introduccion a Entity Framework.csproj", "{49F91E47-6F83-461E-8A61-A560131A3D29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{7D07619A-38EE-4ABC-ACFF-2E5FBD0E4D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D07619A-38EE-4ABC-ACFF-2E5FBD0E4D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D07619A-38EE-4ABC-ACFF-2E5FBD0E4D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F91E47-6F83-461E-8A61-A560131A3D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F91E47-6F83-461E-8A61-A560131A3D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F91E47-6F83-461E-8A61-A560131A3D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F91E47-6F83-461E-8A61-A560131A3D29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
