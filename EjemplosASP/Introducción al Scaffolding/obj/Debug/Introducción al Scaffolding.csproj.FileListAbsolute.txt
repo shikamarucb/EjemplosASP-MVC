@@ -1,0 +1,71 @@
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\ApplicationInsights.config
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Introducción al Scaffolding.dll.config
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Introducción al Scaffolding.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Introducción al Scaffolding.pdb
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Antlr3.Runtime.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\EntityFramework.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.Web.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Newtonsoft.Json.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Owin.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Helpers.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Mvc.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Optimization.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Razor.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.WebPages.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.WebPages.Razor.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\WebGrease.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Helpers.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Mvc.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Optimization.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.Razor.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.WebPages.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\System.Web.WebPages.Razor.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Antlr3.Runtime.pdb
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Newtonsoft.Json.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\EntityFramework.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\EntityFramework.SqlServer.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\bin\Microsoft.AI.Web.xml
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\obj\Debug\Introducción al Scaffolding.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\obj\Debug\Introducción al Scaffolding.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\obj\Debug\Introducción al Scaffolding.dll
+C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Introducción al Scaffolding\obj\Debug\Introducción al Scaffolding.pdb
