@@ -18,6 +18,12 @@ namespace Atributo_Required.Controllers
             _repo = new PersonasRepositorio();
         }
 
+        public JsonResult NumeroPar(int NumeroPar)
+        {
+            var result = NumeroPar % 2 == 0;
+            return Json(result, JsonRequestBehavior.AllowGet);
+        }
+
 
         // GET: Personas
         public ActionResult Index()
