@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -23,5 +24,17 @@ namespace Atributo_Required.Models
         //que soporta el tipo de dato double
         [Range(18,double.MaxValue,ErrorMessage ="El campo {0} debe ser un numero entre {1} y {2}")]
         public double Edad { get; set; }
+
+        [StringLength(200)]
+        public string Email { get; set; }
+
+        //Este atributo no se crea en la base de datos y se compara con el atributo Email
+        [NotMapped]
+        [Compare("Email")]
+        public string ConfirmarEmail { get; set; }
+
+        //Valida que haya un numero de tarjeta de credito valido en el campo
+        [CreditCard]
+        public string TarjetaCredito { get; set; }
     }
 }
