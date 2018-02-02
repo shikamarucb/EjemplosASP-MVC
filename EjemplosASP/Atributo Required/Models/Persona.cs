@@ -18,5 +18,10 @@ namespace Atributo_Required.Models
         //Atributo Required: El atributo "Apellido" es obligatorio para crear un nuevo modelo de "Persona" en la BD
         [Required(ErrorMessage ="El campo {0} es obligatorio para crear")]
         public string Apellido { get; set; }
+
+        //Atributo Range: El atributo "Edad" es obligatorio y debe estar entre el rango de 18 y el maximo valor
+        //que soporta el tipo de dato double
+        [Range(18,double.MaxValue,ErrorMessage ="El campo {0} debe ser un numero entre {1} y {2}")]
+        public double Edad { get; set; }
     }
 }
