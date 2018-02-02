@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción al Scaffoldin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion a Entity Framework", "Introduccion a Entity Framework\Introduccion a Entity Framework.csproj", "{49F91E47-6F83-461E-8A61-A560131A3D29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atributo Required", "Atributo Required\Atributo Required.csproj", "{04DC9A9C-238C-485C-AE82-BEBAA896AB53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{49F91E47-6F83-461E-8A61-A560131A3D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49F91E47-6F83-461E-8A61-A560131A3D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49F91E47-6F83-461E-8A61-A560131A3D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DC9A9C-238C-485C-AE82-BEBAA896AB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DC9A9C-238C-485C-AE82-BEBAA896AB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DC9A9C-238C-485C-AE82-BEBAA896AB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DC9A9C-238C-485C-AE82-BEBAA896AB53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
