@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Atributo_Required.Models.Validaciones;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -43,5 +44,10 @@ namespace Atributo_Required.Models
         //que este campo
         [Remote("NumeroPar", "Personas",ErrorMessage ="El número ingresado no es par")]
         public int NumeroPar { get; set; }
+
+        //La definicion del atributo personalizado se encuentra en la carpeta model/Validaciones
+        [DivisibleEntre(3)]
+        public int NumeroDivisor { get; set; }
+
     }
 }

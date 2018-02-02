@@ -201,6 +201,7 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Persona.cs" />
+    <Compile Include="Models\Validaciones\DivisibleEntreAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Servicios\PersonasRepositorio.cs" />
     <Compile Include="Startup.cs" />
