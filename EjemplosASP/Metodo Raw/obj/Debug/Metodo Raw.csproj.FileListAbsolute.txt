@@ -36,7 +36,6 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\bin\Microsof
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\obj\Debug\Metodo Raw.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\obj\Debug\Metodo Raw.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\obj\Debug\Metodo Raw.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Metodo Raw\obj\Debug\Metodo Raw.pdb

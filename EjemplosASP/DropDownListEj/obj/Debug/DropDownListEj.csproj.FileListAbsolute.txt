@@ -36,7 +36,6 @@ C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\bin\Micr
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\obj\Debug\DropDownListEj.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\obj\Debug\DropDownListEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\obj\Debug\DropDownListEj.dll
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\DropDownListEj\obj\Debug\DropDownListEj.pdb

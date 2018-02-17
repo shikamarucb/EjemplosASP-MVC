@@ -36,7 +36,6 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\b
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\obj\Debug\RenderAction y Action.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\obj\Debug\RenderAction y Action.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\obj\Debug\RenderAction y Action.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\RenderAction y Action\obj\Debug\RenderAction y Action.pdb

@@ -36,7 +36,6 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\bin\Micros
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\obj\Debug\JsonResultEj.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\obj\Debug\JsonResultEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\obj\Debug\JsonResultEj.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\JsonResultEj\obj\Debug\JsonResultEj.pdb

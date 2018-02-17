@@ -39,4 +39,3 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpPostGetEj\bin\Micro
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpPostGetEj\obj\Debug\HttpPostGetEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpPostGetEj\obj\Debug\HttpPostGetEj.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpPostGetEj\obj\Debug\HttpPostGetEj.pdb
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpPostGetEj\obj\Debug\HttpPostGetEj.csprojResolveAssemblyReference.cache

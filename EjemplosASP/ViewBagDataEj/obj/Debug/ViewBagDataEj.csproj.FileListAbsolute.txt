@@ -36,7 +36,6 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\bin\Micro
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\obj\Debug\ViewBagDataEj.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\obj\Debug\ViewBagDataEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\obj\Debug\ViewBagDataEj.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ViewBagDataEj\obj\Debug\ViewBagDataEj.pdb

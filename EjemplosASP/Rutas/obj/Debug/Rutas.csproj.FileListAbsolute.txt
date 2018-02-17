@@ -36,7 +36,6 @@ C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\bin\Microsoft.AI.
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\obj\Debug\Rutas.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\obj\Debug\Rutas.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\obj\Debug\Rutas.dll
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Rutas\obj\Debug\Rutas.pdb

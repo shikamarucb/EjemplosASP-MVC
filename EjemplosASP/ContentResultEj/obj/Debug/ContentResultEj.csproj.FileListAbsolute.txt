@@ -36,7 +36,6 @@ C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\bin\Mic
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\obj\Debug\ContentResultEj.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\obj\Debug\ContentResultEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\obj\Debug\ContentResultEj.dll
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\ContentResultEj\obj\Debug\ContentResultEj.pdb

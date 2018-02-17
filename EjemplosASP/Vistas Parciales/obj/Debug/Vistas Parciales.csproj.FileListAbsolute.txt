@@ -36,7 +36,6 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\bin\Mi
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\obj\Debug\Vistas Parciales.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\obj\Debug\Vistas Parciales.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\obj\Debug\Vistas Parciales.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\Vistas Parciales\obj\Debug\Vistas Parciales.pdb

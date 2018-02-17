@@ -36,7 +36,6 @@ C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTempla
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.dll
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\Display y DisplayTemplates\obj\Debug\Display y DisplayTemplates.pdb

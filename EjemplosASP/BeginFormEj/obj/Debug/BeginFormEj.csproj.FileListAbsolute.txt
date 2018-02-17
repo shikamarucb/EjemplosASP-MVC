@@ -36,7 +36,6 @@ C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\bin\Microso
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\obj\Debug\BeginFormEj.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\obj\Debug\BeginFormEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\obj\Debug\BeginFormEj.dll
 C:\Users\Felipe\Source\Repos\EjemplosASP-MVC\EjemplosASP\BeginFormEj\obj\Debug\BeginFormEj.pdb

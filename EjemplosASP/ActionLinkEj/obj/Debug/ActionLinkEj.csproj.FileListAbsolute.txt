@@ -36,7 +36,6 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\bin\Micros
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\obj\Debug\ActionLinkEj.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\obj\Debug\ActionLinkEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\obj\Debug\ActionLinkEj.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\ActionLinkEj\obj\Debug\ActionLinkEj.pdb

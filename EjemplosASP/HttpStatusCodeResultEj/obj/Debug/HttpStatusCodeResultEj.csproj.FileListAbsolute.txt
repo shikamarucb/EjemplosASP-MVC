@@ -36,7 +36,6 @@ C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\bin\Microsoft.AI.Web.xml
-C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\obj\Debug\HttpStatusCodeResultEj.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\obj\Debug\HttpStatusCodeResultEj.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\obj\Debug\HttpStatusCodeResultEj.dll
 C:\Users\Felipe\source\repos\EjemplosASP-MVC\EjemplosASP\HttpStatusCodeResultEj\obj\Debug\HttpStatusCodeResultEj.pdb
