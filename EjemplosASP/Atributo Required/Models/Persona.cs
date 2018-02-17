@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace Atributo_Required.Models
 {
-    public class Persona
+    public class Persona: IValidatableObject
     {
         public int Id { get; set; }
 
@@ -49,5 +49,31 @@ namespace Atributo_Required.Models
         [DivisibleEntre(3)]
         public int NumeroDivisor { get; set; }
 
+        #region IValidatableObject
+
+        //campos de la validacion compleja
+        public decimal Salario { get; set; }
+
+        //Atributo Display: El atributo LabelFor busca si esta implementado el atributo display,
+        //si lo esta y esta definido el parametro nombre, lo muestra con esa propiedad, si no, coloca
+        //el nombre del atributo del modelo
+        [Display(Name ="Monto del Préstamo")]
+        public decimal MontoPrestamo { get; set; }
+
+        //Para hacer la validacion compleja se implementa la interfaz "IValidatableObject"
+        //y se implementa el metodo a continuacion:
+        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        {
+            var errores = new List<ValidationResult>();
+
+            if(Salario * 4 < MontoPrestamo)
+            {
+                errores.Add(new ValidationResult("El monto del prestamo debe ser 4 veces igual o menor al salario",
+                    new String[] { "MontoPrestamo" }));
+            }
+
+            return errores;
+        }
+        #endregion IValidatableObject
     }
 }
