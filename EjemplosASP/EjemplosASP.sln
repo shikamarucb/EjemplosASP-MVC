@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocultando campos con Scaffo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwords y TextArea-Scaffolding DataType", "Passwords y TextArea-Scaffolding DataType\Passwords y TextArea-Scaffolding DataType.csproj", "{29F425D9-D4FC-4218-95C6-70F654371380}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones especiales del DbContext EF", "Funciones especiales del DbContext EF\Funciones especiales del DbContext EF.csproj", "{D80986D5-25C2-4831-A64A-05F400CAC2CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{29F425D9-D4FC-4218-95C6-70F654371380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29F425D9-D4FC-4218-95C6-70F654371380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29F425D9-D4FC-4218-95C6-70F654371380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80986D5-25C2-4831-A64A-05F400CAC2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80986D5-25C2-4831-A64A-05F400CAC2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80986D5-25C2-4831-A64A-05F400CAC2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80986D5-25C2-4831-A64A-05F400CAC2CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
