@@ -135,6 +135,8 @@ namespace Insertando_registros_con_Entity_Framework.Controllers
         public ActionResult DeleteConfirmed(int id)
         {
             Persona persona = db.Personas.Find(id);
+            //si quiero eliminar varios registros ejecuto el metodo removeRange y le paso como
+            //parametro una lista de "Persona" en este caso
             db.Personas.Remove(persona);
             db.SaveChanges();
             return RedirectToAction("Index");
