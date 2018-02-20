@@ -17,6 +17,35 @@ namespace Insertando_registros_con_Entity_Framework.Controllers
         // GET: Personas
         public ActionResult Index()
         {
+            //Selecciona todas las columnas
+            var listadoPersonasTodaslasColumnas = db.Personas.ToList();
+
+            //Selecciona una columna
+            var listadoDeNombres = db.Personas.Select(x => x.Nombre).ToList();
+
+            //Selecciona varias columnas y proyectandolas a un objeto anonimo
+            var listadoPersonasVariasColumnasAnon = db.Personas.Select(x => new
+            {
+                Nombre = x.Nombre,
+                Edad = x.Edad
+            }).ToList();
+
+            //Seleccionando varias columnas y proyectandolas hacia un objeto de
+            //tipo persona
+
+            //Primero se proyecta a un tipo anonimo, despues el tipo anonimo se
+            //proyecta al tipo Persona. NO se puede hacer directamente proyectarlo
+            //al tipo Persona.
+            var listadoPersonasVariasColumnas = db.Personas.Select(x => new
+            {
+                Nombre = x.Nombre,
+                Edad = x.Edad
+            }).ToList().Select(x => new Persona
+            {
+                Nombre = x.Nombre,
+                Edad = x.Edad
+            }).ToList();
+
             return View(db.Personas.ToList());
         }
 

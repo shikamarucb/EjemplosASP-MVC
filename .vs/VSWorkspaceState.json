@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\EjemplosASP",
-    "\\EjemplosASP\\Funciones especiales del DbContext EF",
-    "\\EjemplosASP\\Funciones especiales del DbContext EF\\Models",
-    "\\EjemplosASP\\Metodo Raw"
+    "\\EjemplosASP\\Funciones especiales del DbContext EF\\Models"
   ],
-  "SelectedNode": "\\EjemplosASP\\Introduccion a Entity Framework",
+  "SelectedNode": "\\EjemplosASP\\EjemplosASP.sln",
   "PreviewInSolutionExplorer": false
 }
