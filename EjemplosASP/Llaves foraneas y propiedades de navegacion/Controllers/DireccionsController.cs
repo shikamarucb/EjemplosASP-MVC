@@ -51,7 +51,8 @@ namespace Llaves_foraneas_y_propiedades_de_navegacion.Controllers
             var personaConSusDirecciones = db.Personas.GroupJoin(db.Direcciones, per => per.Id,
                 dir => dir.IdPersona, (per, dir) => new { per, dir }).ToList();
 
-
+            //Para mirar el query generado
+            var query = db.Direcciones.ToString();
 
             return View(db.Direcciones.ToList());
         }
