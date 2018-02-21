@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Net;
 using System.Web;
@@ -53,6 +54,12 @@ namespace Llaves_foraneas_y_propiedades_de_navegacion.Controllers
 
             //Para mirar el query generado
             var query = db.Direcciones.ToString();
+
+            //Entity Framework query arbitrario
+            var query1 = db.Personas.SqlQuery(@"Select * from dbo.Personas");
+
+            var query2 = db.Database.SqlQuery<Persona>(@"select * from dbo.Personas where Id=@Id", new SqlParameter("@Id", 1))
+                .FirstOrDefault();
 
             return View(db.Direcciones.ToList());
         }
