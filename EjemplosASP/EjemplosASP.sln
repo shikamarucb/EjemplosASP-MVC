@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones especiales del Db
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertando registros con Entity Framework", "Insertando registros con Entity Framework\Insertando registros con Entity Framework.csproj", "{410B76FC-5ECC-4BEA-A223-458CD5B387A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Llaves foraneas y propiedades de navegacion", "Llaves foraneas y propiedades de navegacion\Llaves foraneas y propiedades de navegacion.csproj", "{AA3646B0-EB11-4760-91D6-715F8658900D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{410B76FC-5ECC-4BEA-A223-458CD5B387A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410B76FC-5ECC-4BEA-A223-458CD5B387A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410B76FC-5ECC-4BEA-A223-458CD5B387A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3646B0-EB11-4760-91D6-715F8658900D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3646B0-EB11-4760-91D6-715F8658900D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3646B0-EB11-4760-91D6-715F8658900D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3646B0-EB11-4760-91D6-715F8658900D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
