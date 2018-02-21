@@ -15,7 +15,9 @@ namespace Llaves_foraneas_y_propiedades_de_navegacion.Models
         {
 
             //Se establece la llave foranea
-            modelBuilder.Entity<Direccion>().HasRequired(x => x._Persona);
+            //modelBuilder.Entity<Direccion>().HasRequired(x => x._Persona);
+
+            modelBuilder.Entity<Direccion>().HasRequired(x => x._Persona).WithMany().HasForeignKey(x => x.IdPersona);
 
             base.OnModelCreating(modelBuilder);
         }

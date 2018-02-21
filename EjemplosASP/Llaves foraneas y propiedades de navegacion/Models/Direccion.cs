@@ -9,6 +9,7 @@ namespace Llaves_foraneas_y_propiedades_de_navegacion.Models
     {
         public int Id { get; set; }
         public string _Direccion { get; set; }
+        public int IdPersona { get; set; }
         public Persona _Persona { get; set; }
     }
 }

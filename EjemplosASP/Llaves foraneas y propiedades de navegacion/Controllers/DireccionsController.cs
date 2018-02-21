@@ -36,6 +36,23 @@ namespace Llaves_foraneas_y_propiedades_de_navegacion.Controllers
             //Metodo 2
             var persona2 = db.Personas.Include("Direcciones").FirstOrDefault(x => x.Id == 1);
 
+
+            //Inner join en Entity Framework. Join y GroupJoin 
+
+            //una direccion con su persona
+            var personaDireccion = db.Direcciones.Join(db.Personas, dir => dir.IdPersona,
+                per => per.Id, (dir, per) => new { dir, per }).FirstOrDefault(x => x.dir.Id == 1);
+
+            //1 persona con todas sus direcciones
+            var persona1ConSusDirecciones = db.Personas.GroupJoin(db.Direcciones, per => per.Id,
+                dir => dir.IdPersona, (per, dir) => new { per, dir }).FirstOrDefault(x => x.per.Id == 1);
+
+            //Todas las personas con sus direcciones
+            var personaConSusDirecciones = db.Personas.GroupJoin(db.Direcciones, per => per.Id,
+                dir => dir.IdPersona, (per, dir) => new { per, dir }).ToList();
+
+
+
             return View(db.Direcciones.ToList());
         }
 
